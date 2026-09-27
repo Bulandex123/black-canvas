@@ -16,7 +16,7 @@ const hero = "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=
 const barber = "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1200&q=85";
 const gallery = [
   "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=900&q=85",
-  "https://images.unsplash.com/photo-1622288432450-277d0fef5ed4?auto=format&fit=crop&w=900&q=85",
+  "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=900&q=85",
   "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=900&q=85",
   "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=900&q=85",
 ];
