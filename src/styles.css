@@ -142,3 +142,14 @@
     color: var(--color-foreground);
   }
 }
+
+
+@keyframes drip-marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+html { scroll-behavior: smooth; }
+body { overflow-x: hidden; }
+::selection { background: #c8a86b; color: #050505; }
+.drip-card { backdrop-filter: blur(8px); }
