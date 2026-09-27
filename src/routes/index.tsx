@@ -22,7 +22,9 @@ const gallery = [
 ];
 
 const whatsapp = "https://wa.me/19544409318";
-const bookingMessage = "Olá! Gostaria de marcar uma marcação na The Miami Drip Barbershop. Gostaria de saber os horários disponíveis.";\n\nconst services = [
+const bookingMessage = "Olá! Gostaria de marcar uma marcação na The Miami Drip Barbershop. Gostaria de saber os horários disponíveis.";
+
+const services = [
   ["01", "HAIRCUTS", "Clean silhouettes, sharp finishes and a cut built around your style."],
   ["02", "FADES & STYLING", "Precision fades, texture and styling with attention to every detail."],
   ["03", "BEARD GROOMING", "Crisp lines, balanced shape and a polished finish."],
